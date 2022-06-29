@@ -1,0 +1,5 @@
+Hostname,IP Address,Utilization in %,Total ports,Total up
+Pod2-Border-1,172.17.16.9,11%,43,5
+Pod2-Border-2,172.17.16.10,11%,43,5
+Pod2-Edge-1,172.17.19.38,6%,65,4
+Pod2-Edge-2,172.17.19.39,10%,39,4
