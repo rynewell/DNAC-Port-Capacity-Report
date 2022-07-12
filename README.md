@@ -5,7 +5,7 @@ pip install requests[secure]
 ```
 
 You change the controller credentials either through environment variables or by editing the dnac_config.py file
-## 01_network_device.py
+## 00_port_capacity_util.py
 This script will produce CSV providing port capacity for each swtich.
 ```buildoutcfg
 ./00_port_capacity_util.py
